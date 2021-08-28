@@ -1,4 +1,4 @@
-### Oi eu não sou o Goku, Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
+### Oi eu não sou o Goku! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
 - 🔭 Atualmente estou Aperfeiçoando 3 Projetos pessoais:
 - 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
@@ -7,7 +7,7 @@
 - 📚 Estou Cursando ADS, Aprimorando conhecimentos em PHP, Aprendendo React Native;
 - 💻 Tenho conhecimento em: PHP, Javascript, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco em React Native e Electron;
 - 😉 Procurando evoluir sempre nas Habilidades e no psicológico;
-- 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante, por ai!
+- 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante por ai!
 <div>
   <a href="https://github.com/Maycon-crz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maycon-crz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
