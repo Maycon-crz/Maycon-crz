@@ -1,4 +1,4 @@
-### Oi eu não sou o Goku! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
+### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
 - 🔭 Atualmente estou Aperfeiçoando 3 Projetos pessoais:
 - 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
