@@ -5,8 +5,8 @@
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
 - ⚡⚡<a href='https://devpegasus.com' target='_blank'>DevPegasus - https://devpegasus.com/</a>
 - 👸🏻 E um sistema integrado chamada Luana, Futura IA;
-- 📚 Estou Cursando ADS, Aprimorando conhecimentos em PHP, Aprendendo React Native;
-- 💻 Tenho conhecimento em: PHP, Javascript, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco em React Native, Electron e Twig;
+- 📚 Estou Cursando ADS, Aprimorando conhecimentos em PHP, Aprendendo Flutter;
+- 💻 Tenho conhecimento em: PHP, Javascript, Dart, Flutter, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco em React Native, Electron e Twig;
 - 😉 Procurando evoluir sempre nas Habilidades e no psicológico;
 - 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante por ai!
 <div>
