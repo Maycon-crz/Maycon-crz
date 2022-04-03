@@ -1,8 +1,9 @@
 ### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
-- 🔭 Atualmente estou Aperfeiçoando 3 Projetos pessoais:
-- 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
+- 🔭 Atualmente estou Aperfeiçoando site e Desenvolvendo APP Recicladarte com Dart/Flutter;
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
+- Projetos ativos mais com um pouco menos de foco:
+- 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
 - ⚡⚡<a href='https://devpegasus.com' target='_blank'>DevPegasus - https://devpegasus.com/</a>
 - 👸🏻 E um sistema integrado chamada Luana, Futura IA;
 - 📚 Estou Cursando ADS, Aprimorando conhecimentos em PHP, Aprendendo Flutter;
