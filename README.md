@@ -1,6 +1,6 @@
 ### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
-- 🔭 Atualmente estou Aperfeiçoando site e Desenvolvendo APP Recicladarte com Dart/Flutter;
+- 🔭 Atualmente estou Aperfeiçoando site PHP e Desenvolvendo APP Recicladarte com Dart/Flutter;
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
 - Projetos ativos mais com um pouco menos de foco:
 - 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
