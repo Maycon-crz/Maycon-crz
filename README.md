@@ -1,14 +1,13 @@
 ### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
-- 🔭 Atualmente estou Aperfeiçoando site PHP e Desenvolvendo APP Recicladarte com Dart/Flutter;
+- 📚 Atualmente estou Cursando ADS, aprimorando conhecimentos em PHP e aprendendo Flutter;
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
 - Projetos ativos mais com um pouco menos de foco:
 - 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
 - ⚡⚡<a href='https://devpegasus.com' target='_blank'>DevPegasus - https://devpegasus.com/</a>
 - 👸🏻 E um sistema integrado chamada Luana, Futura IA;
-- 📚 Estou Cursando ADS, Aprimorando conhecimentos em PHP, Aprendendo Flutter;
-- 💻 Tenho conhecimento em: PHP, Javascript, Dart, Flutter, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco em React Native, Electron e Twig;
-- 😉 Procurando evoluir sempre nas Habilidades e no psicológico;
+- 💻 Tenho conhecimento em: PHP, Javascript, Dart, Flutter, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco com React Native, Electron e Twig;
+- 😉 Procurando evoluir sempre as Habilidades de Desenvolvedor junto com o psicológico que é importante também;
 - 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante por ai!
 <div>
   <a href="https://github.com/Maycon-crz">
