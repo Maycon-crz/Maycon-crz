@@ -10,9 +10,9 @@
 - 😉 Procurando evoluir sempre as Habilidades de Desenvolvedor junto com o psicológico que é importante também;
 - 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante por ai!
 <div>
-  <a href="https://github.com/Maycon-crz">
+<!--   <a href="https://github.com/Maycon-crz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maycon-crz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-crz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-crz&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 <div style="display: inline_block"><br>
   <a href='https://www.php.net'>
