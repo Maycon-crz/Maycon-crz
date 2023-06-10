@@ -1,16 +1,16 @@
 ### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
 
-- 📚 Atualmente estou Cursando ADS, aprimorando conhecimentos em PHP, Javascript e Flutter;
-#### Meus projetos que estão online:
+- 📚 Atualmente cursando Análise e desenvolvimento de sistemas (ADS), e aprimorando conhecimentos em PHP, Javascript e Flutter;
+#### Meus projetos online:
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
 - ⚡⚡<a href='https://devpegasus.com' target='_blank'>DevPegasus - https://devpegasus.com/</a>
 - 🍕🍹 <a href='https://receitasedrinks.com' target='_blank'>Receitas e Drinks - https://receitasedrinks.com</a>
-- 👸🏻 E um sistema integrado chamada Luana, Futura IA;
+- <a href='https://maycon-crz.github.io/' target='_blank'>Site portfólio</a>
 #### Conhecimentos:
 - PHP, Javascript, Dart, Flutter, AJAX, JSON, SQL, MYSQL, CSS, Bootstrap, e me arrisco com React Native, Electron e Twig;
 - Kanban, Scrum, UML, API;
 - Mantra: Baixo Acoplamento Alta Coesão;
-- 😉 Procurando evoluir sempre as Habilidades de Desenvolvedor junto com o psicológico que considero importante também;
+- 😉 Procurando evoluir sempre as habilidades de desenvolvedor junto com o psicológico que considero importante também;
 - 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante e útil por ai!
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maycon-crz&bg_color=0f0f0f&color=23db0a&line=23db0a&point=1e02f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
