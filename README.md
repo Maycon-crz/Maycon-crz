@@ -1,4 +1,4 @@
-### Olá prazer! Sou Maycon Nascimento de Oliveira, Bem vindo(a) ao meu modesto espaço dev!
+### Olá prazer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sou Maycon Nascimento de Oliveira, Bem-vindo(a) ao meu modesto espaço dev!
 
 - 📚 Atualmente cursando Análise e desenvolvimento de sistemas (ADS), e aprimorando conhecimentos em PHP, Javascript e Flutter;
 #### Meus projetos online:
