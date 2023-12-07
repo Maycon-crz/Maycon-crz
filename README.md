@@ -1,6 +1,6 @@
 ### Olá prazer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sou Maycon Nascimento de Oliveira, Bem-vindo(a) ao meu modesto espaço dev!
 
-- 👨‍🎓 Análise e desenvolvimento de sistemas (ADS) 100%, aprimorando conhecimentos em PHP, Javascript, Flutter, aprendendo Python e Java;
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS), estou sempre aprimorando minhas soft skills e hard skills com cursos e livros.
 #### Meus projetos online:
 - 🌎♻ <a href='https://recicladarte.com' target='_blank'>RecicladArte - https://recicladarte.com/</a>
 - ⚡⚡<a href='https://devpegasus.com' target='_blank'>DevPegasus - https://devpegasus.com/</a>
