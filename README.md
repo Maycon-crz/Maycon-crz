@@ -1,4 +1,4 @@
-### Olá prazer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sou Maycon, Bem-vindo(a) ao meu modesto espaço dev!
+### Olá prazer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Eu sou o Maycon, Bem-vindo(a) ao meu modesto espaço dev!
 
 <p>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS), estou sempre aprimorando minhas soft skills e hard skills com cursos e livros.</p>
 
