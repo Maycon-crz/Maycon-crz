@@ -20,6 +20,7 @@
 - 📫 E-mail: **mayconnascimentodeoliveira23@gmail.com**
 
 ---
+---
 
 #### Conhecimentos:
 <div style="display: inline_block">
