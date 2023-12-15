@@ -67,8 +67,8 @@
 </div>
 
 Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, Laravel, jQuery, AJAX, VueJS, React, JSON, Bootstrap, básico de Java e me arrisco com Pyhton e React Native;
-- Kanban, Scrum, Modelo Entidade Relacionamento (MER), POO, API
-- Baixo Acoplamento Alta Coesão
+- Kanban, Scrum, Modelo Entidade Relacionamento (MER), POO, API;
+- Baixo Acoplamento Alta Coesão;
 - 😉 Procurando evoluir sempre as habilidades de desenvolvedor junto com o psicológico que considero importante também;
 - 💬 Entra em contato comigo ai! vamos formar um grupo criar um projeto, mudar o mundo, algo empolgante e útil por ai!
 
