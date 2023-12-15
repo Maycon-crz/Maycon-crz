@@ -30,24 +30,43 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
-  <a href='https://www.w3schools.com/html/'>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href='https://www.w3schools.com/cssref/'>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  <a href='https://pt-br.reactjs.org'>
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  </a>
   <a href='https://dart.dev/guides'>
     <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
   <a href='https://flutter.dev/?gclid=CjwKCAiAvOeQBhBkEiwAxutUVJZBINLLzxGsk66BErU4QHtF3vZHeRxTgX3CPR8Hvviitr-yzVwQERoCBQsQAvD_BwE&gclsrc=aw.ds'>
     <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
+  </a>
+  <!-- Java -->
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <!-- Python -->
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <!-- MySQL -->
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <!-- SQL Server -->
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <a href='https://www.w3schools.com/html/'>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href='https://www.w3schools.com/cssref/'>
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>  
+  <!-- Laravel -->
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+  <!-- React -->
+  <a href='https://pt-br.reactjs.org'>
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  </a>
+  <!-- Vue.js -->
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <!-- Bootstrap -->
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <!-- Sass -->
+  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <!-- jQuery -->
+  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">  
 </div>
 
-- PHP, Laravel, Javascript, Dart, Flutter, VueJS, React, jQuery, AJAX, JSON, SQL, MySQL, SQL Server, CSS, Bootstrap, e me arrisco com React Native;
+Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, Laravel, jQuery, AJAX, VueJS, React, JSON, Bootstrap, básico de Java e me arrisco com Pyhton e React Native;
 - Kanban, Scrum, Modelo Entidade Relacionamento (MER), POO, API
 - Baixo Acoplamento Alta Coesão
 - 😉 Procurando evoluir sempre as habilidades de desenvolvedor junto com o psicológico que considero importante também;
