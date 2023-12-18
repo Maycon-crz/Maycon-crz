@@ -63,10 +63,17 @@
   <!-- Sass -->
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <!-- jQuery -->
-  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">  
+  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <!-- GIT -->
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <!-- GitHub -->
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <!-- GitLab -->
+  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 </div>
+<br />
 
-Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, Laravel, jQuery, AJAX, VueJS, React, JSON, Bootstrap, básico de Java e me arrisco com Pyhton e React Native;
+Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, GIT, Laravel, jQuery, AJAX, VueJS, React, JSON, JWT, Bootstrap, básico de Java e me arrisco com Pyhton e React Native;
 - Kanban, Scrum, Modelo Entidade Relacionamento (MER), POO, API;
 - Baixo Acoplamento Alta Coesão;
 - 😉 Procurando evoluir sempre as habilidades de desenvolvedor junto com o psicológico que considero importante também;
