@@ -73,7 +73,9 @@
 </div>
 <br />
 
-Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, GIT, Laravel, jQuery, AJAX, VueJS, React, JSON, JWT, Bootstrap, básico de Java e me arrisco com Pyhton e React Native;
+<p>Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, GIT, Laravel, jQuery, AJAX, VueJS, React, JSON, JWT, Bootstrap. Básico de Java e me arrisco com Pyhton e React Native.</p> 
+<p>Possuo habilidades em algumas destas tecnologias dede 2016 onde participei presencialmente do programa Entra21 Blusoft, desde então sempre me atualizei e pratiquei como um hobby também.</p>
+
 - Kanban, Scrum, Modelo Entidade Relacionamento (MER), POO, API;
 - Baixo Acoplamento Alta Coesão;
 - 😉 Procurando evoluir sempre as habilidades de desenvolvedor junto com o psicológico que considero importante também;
