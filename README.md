@@ -22,7 +22,7 @@
 ---
 ---
 
-#### Conhecimento:
+#### Conhecimento / Hard skills:
 
 <a href='https://www.php.net'><img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img alt="Javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
