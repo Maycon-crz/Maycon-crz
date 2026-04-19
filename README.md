@@ -28,65 +28,56 @@ Bem-vindo(a) ao meu modesto espaço dev!
 ---
 
 #### Conhecimento:
-<div style="display:inline-block; text-align:left; line-height:1.6;">
-    <a href="https://www.php.net" target="_blank">
-        <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript"
+<p>
+    <a href="https://www.php.net" target="_blank"><img alt="PHP"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="30"
+            width="40"></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
-    <a href="https://dart.dev/guides" target="_blank">
-        <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
-    <a href="https://flutter.dev" target="_blank">
-        <img alt="Flutter"
+            height="30" width="40"></a>&nbsp;
+    <a href="https://dart.dev/guides" target="_blank"><img alt="Dart"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="30"
+            width="40"></a>&nbsp;
+    <a href="https://flutter.dev" target="_blank"><img alt="Flutter"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
+            height="30" width="40"></a>&nbsp;
     <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="SQL Server"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    <a href="https://www.w3schools.com/html/" target="_blank">
-        <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
-    <a href="https://www.w3schools.com/cssref/" target="_blank">
-        <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
+        height="30" width="40">&nbsp;
+    <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"
+            width="40"></a>&nbsp;
+    <a href="https://www.w3schools.com/cssref/" target="_blank"><img alt="CSS"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"
+            width="40"></a>&nbsp;
     <img alt="Laravel"
         src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original-wordmark.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    <a href="https://pt-br.reactjs.org" target="_blank">
-        <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-            height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-    </a>
+        height="30" width="40">&nbsp;
+    <a href="https://pt-br.reactjs.org" target="_blank"><img alt="React"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"
+            width="40"></a>&nbsp;
     <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="Bootstrap"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
+        height="30" width="40">&nbsp;
     <img alt="GitLab" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-        height="30" width="40" style="margin:0 8px; display:inline-block; vertical-align:middle;">
-</div>
+        height="30" width="40">
+</p>
 <br />
 
 <p>Principais: PHP, Javascript, Dart, Flutter, SQL, MySQL, SQL Server, HTML, CSS, GIT, Laravel, jQuery, AJAX, VueJS,
