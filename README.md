@@ -9,15 +9,15 @@
 
 #### Meus projetos online:
 
+- 👤💼 Site portfólio: <a href='https://maycon-crz.github.io/' target='_blank'>https://maycon-crz.github.io</a>
+
 - 🌎♻ RecicladArte: <a href='https://recicladarte.com' target='_blank'>https://recicladarte.com</a>
 
 - 🔭⚡ DevPegasus: <a href='https://devpegasus.com' target='_blank'>https://devpegasus.com</a>
 
 - 🍕🍹 Receitas e Drinks: <a href='https://receitasedrinks.com' target='_blank'>https://receitasedrinks.com</a>
 
-- 🐱‍👤💼 Site portfólio: <a href='https://maycon-crz.github.io/' target='_blank'>https://maycon-crz.github.io</a>
-
-- 📫 E-mail: **mayconnascimentodeoliveira23@gmail.com**
+📫 E-mail: **mayconnascimentodeoliveira23@gmail.com**
 
 ---
 ---
